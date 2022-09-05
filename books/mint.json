@@ -1,0 +1,11 @@
+{
+    "mint": {
+        "lang": "en",
+        "definition": "the act of publishing a unique instance of your ERC-721 token on the blockchain.",
+        "reference": "https://ethereum.org/en/developers/tutorials/how-to-mint-an-nft/#:~:text=%E2%80%9CMinting%20an%20NFT%E2%80%9D%20is%20the,heart%20(and%20wallet)%20desires!"
+    },
+    "铸造": {
+        "lang": "zh",
+        "definition": "在区块链中，从智能合约中的代码转化成实际图像的过程。一般需要挖掘者支付一定的费用。"
+    }
+}
