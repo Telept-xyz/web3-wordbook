@@ -3,7 +3,7 @@
 ## what is this project used for?
 For most of the newbies, he/she will face the knowledge catch-up phase as long as he/she sees so many wonderful new words. 
 
-And Please notice this repository is under **CC0(Creative Commons Zero) ** license. All your writing here cannot be reserve any copyright.
+And Please notice this repository is under **CC0(Creative Commons Zero)** license. All your writing here cannot be reserve any copyright.
 
 ## who can edit the book and how?
 Everyone can! Web3 is a open world for everyone to participate, and we believe this will make the definition in a transparent way as well.
