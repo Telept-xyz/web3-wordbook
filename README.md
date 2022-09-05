@@ -19,6 +19,8 @@ If not, you need to create a book for this new word inside books folder, and nam
 
 Submit the PR and you are done!
 
+Check the sample code for reference: https://github.com/Telept-xyz/web3-wordbook/pull/2
+
 
 ### if you want to add a new language definition for an existing word
 Search the words.json, and find the book name of the word you want to update. Then, find this book in books folder and add your new language definition there. 
